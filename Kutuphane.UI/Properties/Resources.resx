@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="41168532abf589e17e34d03759e2afb4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41168532abf589e17e34d03759e2afb4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kapak-fotosu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kapak-fotosu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="93357f11e741a56e43c87d56c41ee10d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\93357f11e741a56e43c87d56c41ee10d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c86a443d91cfdc8202c2878d290b771f2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c86a443d91cfdc8202c2878d290b771f2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-an-old-style-library-with-shelves-full-of-books-image_2679112" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-an-old-style-library-with-shelves-full-of-books-image_2679112.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kutuphane01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kutuphane01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c86a443d91cfdc8202c2878d290b771f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c86a443d91cfdc8202c2878d290b771f1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-an-old-style-library-with-shelves-full-of-books-image_26791121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-an-old-style-library-with-shelves-full-of-books-image_26791121.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad1079e808bfccd0075d47dd975e1957" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad1079e808bfccd0075d47dd975e1957.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c86a443d91cfdc8202c2878d290b771f5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c86a443d91cfdc8202c2878d290b771f5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c86a443d91cfdc8202c2878d290b771f4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c86a443d91cfdc8202c2878d290b771f4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2ae7ede073c1080482435f34f81ff66f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2ae7ede073c1080482435f34f81ff66f1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7f210f3a0ee4d7cd35ef2546ff0dffdb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7f210f3a0ee4d7cd35ef2546ff0dffdb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad1079e808bfccd0075d47dd975e19572" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad1079e808bfccd0075d47dd975e19572.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8ab6acfcee1b3724525ddfc0951f3441" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8ab6acfcee1b3724525ddfc0951f3441.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="93357f11e741a56e43c87d56c41ee10d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\93357f11e741a56e43c87d56c41ee10d1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1f65326843961df0de46631c56b08e211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1f65326843961df0de46631c56b08e211.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5c856665da4aa1d8a5771c2aed0ed1dc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5c856665da4aa1d8a5771c2aed0ed1dc1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2ae7ede073c1080482435f34f81ff66f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2ae7ede073c1080482435f34f81ff66f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad1079e808bfccd0075d47dd975e19573" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad1079e808bfccd0075d47dd975e19573.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kutuphane0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kutuphane0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1f65326843961df0de46631c56b08e21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1f65326843961df0de46631c56b08e21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a-peaceful-library-with-a-variety-of-books-on-the-shelves-wallpaper-2880x1800_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a-peaceful-library-with-a-variety-of-books-on-the-shelves-wallpaper-2880x1800_8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="97ee70d21ac1e17af8ab3c349239adea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\97ee70d21ac1e17af8ab3c349239adea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-an-old-style-library-with-shelves-full-of-books-image_26791122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-an-old-style-library-with-shelves-full-of-books-image_26791122.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad1079e808bfccd0075d47dd975e19571" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad1079e808bfccd0075d47dd975e19571.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="97ee70d21ac1e17af8ab3c349239adea1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\97ee70d21ac1e17af8ab3c349239adea1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5fda94df8ce8762a240497314c72372d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5fda94df8ce8762a240497314c72372d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c86a443d91cfdc8202c2878d290b771f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c86a443d91cfdc8202c2878d290b771f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5c856665da4aa1d8a5771c2aed0ed1dc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5c856665da4aa1d8a5771c2aed0ed1dc2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5c856665da4aa1d8a5771c2aed0ed1dc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5c856665da4aa1d8a5771c2aed0ed1dc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c86a443d91cfdc8202c2878d290b771f3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c86a443d91cfdc8202c2878d290b771f3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2ae7ede073c1080482435f34f81ff66f2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2ae7ede073c1080482435f34f81ff66f2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
