@@ -2,6 +2,11 @@
 
 Uludağ Üniversitesi Yönetim Bilişim Sistemleri – Nesne Yönelimli Programlama dersi kapsamında geliştirilen masaüstü **Kütüphane Yönetim Sistemi**.
 
+
+## 🎥 Proje Tanıtım Videosu (YouTube)
+
+[YouTube - Kütüphane Yönetim Sistemi Tanıtım](https://youtu.be/ZK63lw26JEE)
+
 ##  Özellikler
 
 ### Roller
